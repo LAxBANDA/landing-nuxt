@@ -20,7 +20,9 @@ export default defineNuxtConfig({
       sqliteConnector: 'native'
     }
   },
-
+  app: {
+    baseURL: '/landing-nuxt/'
+  },
   mdc: {
     highlight: {
       noApiRoute: false
