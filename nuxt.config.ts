@@ -1,5 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr: false,
+  
   modules: [
     '@nuxt/eslint',
     '@nuxt/content',
@@ -11,7 +13,6 @@ export default defineNuxtConfig({
   devtools: {
     enabled: true
   },
-  ssr: false,
 
   css: ['~/assets/css/main.css'],
 
@@ -52,7 +53,7 @@ export default defineNuxtConfig({
       include: [
         '@vue/devtools-core',
         '@vue/devtools-kit',
-        'shaders/vue',
+        'shaders/vue'
       ]
     }
   }

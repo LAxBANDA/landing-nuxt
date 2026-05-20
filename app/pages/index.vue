@@ -53,7 +53,7 @@ function staggerMotion(index: number = 0) {
   }
 }
 
-const { copy, copied } = useClipboard()
+// const { copy, copied } = useClipboard()
 </script>
 
 <template>

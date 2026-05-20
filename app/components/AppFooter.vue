@@ -4,7 +4,7 @@ const links = [
   { label: 'Mi Calendario', to: 'https://calendar.app.google/ZtXgscrydwnF4Rir6', target: '_blank' },
   { label: 'GitHub', to: 'https://github.com/LAxBANDA/', target: '_blank' },
   { label: 'WhatsApp', to: 'https://api.whatsapp.com/send?phone=56958056234', target: '_blank' },
-  { label: 'Instagram', to: 'https://www.instagram.com/alekosgeorgudis', target: '_blank' },
+  { label: 'Instagram', to: 'https://www.instagram.com/alekosgeorgudis', target: '_blank' }
   // { label: 'Twitter', to: 'https://twitter.com/nuxt_js', target: '_blank' },
   // { label: 'Status', to: '#' },
   // { label: 'Privacy', to: '#' }

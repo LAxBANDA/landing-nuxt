@@ -4,20 +4,20 @@ seo:
 title: "Desarrollo software, automatizaciones e IA\ncon foco en experiencia y diseño"
 description: Alekos Georgudis Eitel - Lider Tecnológico Software e IA
 social:
-  googlecalendar: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+  googlecalendar: "https://calendar.app.google/ZtXgscrydwnF4Rir6"
 hero:
   headline: "Potenciemos el crecimiento de tu empresa"
   links:
     - label: Agenda ahora
       color: primary
       size: xl
-      to: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
-      target: '_blank'
+      to: "https://calendar.app.google/ZtXgscrydwnF4Rir6"
+      target: "_blank"
     - label: Casos de éxito
       size: xl
       color: neutral
       variant: soft
-      to: '#'
+      to: "#"
 terminal:
   lines:
     - segments:
@@ -95,7 +95,7 @@ me:
           style: success
         - text: "Agenda conmigo una charla de 30 minutos (si se alarga no hay problema)"
           style: url
-          url: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+          url: "https://calendar.app.google/ZtXgscrydwnF4Rir6"
 logos:
   title: Tecnologías utilizadas
   items:
@@ -140,7 +140,7 @@ features:
 metrics:
   headline: Con números
   title: "Mi experiencia"
-  description: Profesional experto en el ciclo de Desarrollo, Mantención y Despliegue de aplicaciones en entornos multidisciplinarios y de alta complejidad. Mediante un enfoque personalizado, me desenvuelvo como guía y referente clave en el diseño, gestión y construcción de soluciones escalables a largo plazo. 
+  description: Profesional experto en el ciclo de Desarrollo, Mantención y Despliegue de aplicaciones en entornos multidisciplinarios y de alta complejidad. Mediante un enfoque personalizado, me desenvuelvo como guía y referente clave en el diseño, gestión y construcción de soluciones escalables a largo plazo.
   items:
     - value: "2012"
       label: El año que comencé este camino
@@ -161,4 +161,4 @@ cta:
   links:
     - label: Agenda aquí
       color: primary
-      to: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+      to: "https://calendar.app.google/ZtXgscrydwnF4Rir6"

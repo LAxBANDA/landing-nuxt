@@ -11,7 +11,7 @@ const items = computed(() => [
     to: '#features',
     exactHash: true,
     active: activeSection.value === 'features'
-  },
+  }
   // {
   //   label: 'Casos de éxito',
   //   to: '#metrics',
