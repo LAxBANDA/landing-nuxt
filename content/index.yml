@@ -1,0 +1,164 @@
+seo:
+  title: Alekos Georgudis Eitel | Desarrollo Software
+  description: Me enfoco en desarrollar software, automatizaciones e IA, potenciando el crecimiento de productos y empresas con experiencias visuales únicas
+title: "Desarrollo software, automatizaciones e IA\ncon foco en experiencia y diseño"
+description: Alekos Georgudis Eitel - Lider Tecnológico Software e IA
+social:
+  googlecalendar: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+hero:
+  headline: "Potenciemos el crecimiento de tu empresa"
+  links:
+    - label: Agenda ahora
+      color: primary
+      size: xl
+      to: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+      target: '_blank'
+    - label: Casos de éxito
+      size: xl
+      color: neutral
+      variant: soft
+      to: '#'
+terminal:
+  lines:
+    - segments:
+        - text: "$ "
+          style: prompt
+        - text: "npx telemetry"
+          style: cmd
+        - text: " init"
+          style: flag
+    - segments:
+        - text: "→ Scanning service topology..."
+          style: dim
+    - segments:
+        - text: "→ Found "
+          style: dim
+        - text: "23 services"
+          style: cmd
+        - text: ", "
+          style: dim
+        - text: "847 endpoints"
+          style: cmd
+        - text: ", "
+          style: dim
+        - text: "12 databases"
+          style: cmd
+    - segments:
+        - text: "→ Deploying collector agents "
+          style: dim
+        - text: "✓"
+          style: success
+    - segments:
+        - text: "→ Baseline established in "
+          style: dim
+        - text: "340ms"
+          style: metric-good
+    - segments:
+        - text: " "
+          style: dim
+    - segments:
+        - text: "✓ Live at "
+          style: success
+        - text: "https://app.example.com/acme-corp"
+          style: url
+
+me:
+  lines:
+    - segments:
+        - text: "Hola, que tal!"
+          style: success
+    - segments:
+        - text: "→ "
+          style: success
+        - text: "Mi nombre es Alekos, soy chileno, tengo 33 años y me dedico al Desarrollo de Proyectos de Software."
+          style: dim
+    - segments:
+        - text: " "
+          style: dim
+    - segments:
+        - text: "→ "
+          style: success
+        - text: "Mi especialidad es la de escuchar, guiar y construir una linea tecnológica y evolución digital en empresas, startups y/o proyectos de software."
+          style: dim
+    - segments:
+        - text: "→ "
+          style: success
+        - text: "Gracias al camino que he recorrido me he posicionado en el lugar estratégico que emprendedores, profesionales y empresas necesitan para llevar adelante sus proyectos, generando a través de una relación de confianza que permita ofrecer seguridad y certezas reales a mis clientes."
+          style: dim
+    - segments:
+        - text: "→ "
+          style: success
+        - text: "Si sientes que has perdido mucho tiempo buscando a alguien ideal que te ayude estoy seguro que puedo ayudarte."
+          style: dim
+    - segments:
+        - text: "→ "
+          style: success
+        - text: "Agenda conmigo una charla de 30 minutos (si se alarga no hay problema)"
+          style: url
+          url: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
+logos:
+  title: Tecnologías utilizadas
+  items:
+    - i-simple-icons-kubernetes
+    - i-simple-icons-docker
+    - i-simple-icons-gitlab
+    - i-simple-icons-github
+    - i-simple-icons-go
+    - i-simple-icons-npm
+    - i-simple-icons-typescript
+    - i-simple-icons-javascript
+    - i-simple-icons-react
+    - i-simple-icons-angular
+    - i-simple-icons-nuxt
+    - i-simple-icons-nestjs
+    - i-simple-icons-mongodb
+    - i-simple-icons-postgresql
+    - i-simple-icons-rabbitmq
+features:
+  headline: Resultados medibles a corto plazo
+  title: "Servicios"
+  description: No solo ideas, me he especializado en lanzar productos y cumplir objetivos optimizando el tiempo de implementación y desarrollo.
+  items:
+    - icon: i-lucide-zap
+      title: Producto Minimo Viable (MVP)
+      description: Diseño de proyectos desde 0 a fin de crear productos con potencial de crecimiento en Startups y/o postulación a fondos concursables
+    - icon: i-lucide-radar
+      title: Internet de las cosas (IOT)
+      description: Desarrollo de plataformas de monitoreo para sensores, instrumentos u otros dipositivos iOT en terreno, plantas o fábricas de control de sistemas complejos
+    - icon: i-lucide-layers
+      title: Software a medida
+      description: "Convierto ideas y necesidades en soluciones automatizadas, dashboards informativos o paneles visuales"
+    - icon: i-lucide-git-commit-horizontal
+      title: Infraestructura como Servicio (IIAS)
+      description: Traslado tu software a la nube, migrar sistemas completos desde nube o servidores propios
+    - icon: i-lucide-tablet-smartphone
+      title: Aplicación Mobile
+      description: "Desarrollo de aplicaciones móviles para la integración de tus sistemas, dashboards o paneles existentes"
+    - icon: i-lucide-toolbox
+      title: Mantención Legacy
+      description: Si tienes sistemas legacy puedo ayudar a mantenerlos, repararlos o mejorarlos, cuéntame tu caso
+metrics:
+  headline: Con números
+  title: "Mi experiencia"
+  description: Profesional experto en el ciclo de Desarrollo, Mantención y Despliegue de aplicaciones en entornos multidisciplinarios y de alta complejidad. Mediante un enfoque personalizado, me desenvuelvo como guía y referente clave en el diseño, gestión y construcción de soluciones escalables a largo plazo. 
+  items:
+    - value: "2012"
+      label: El año que comencé este camino
+      class: "text-success"
+    - value: "4"
+      label: Empresas o Startups en las que he servido
+      class: "text-primary"
+    - value: "+80"
+      label: Cantidad de proyectos en los que he influído
+      class: "text-info"
+    - value: "+50"
+      label: Clientes que confiaron en mis servicios
+      class: "text-warning"
+cta:
+  title: "¿Quieres dar el siguiente paso?\nHablemos"
+  description: Agenda conmigo una charla de 30 minutos y cuéntame en que necesitas ayuda.
+  command: npx telemetry init
+  links:
+    - label: Agenda aquí
+      color: primary
+      to: 'https://calendar.app.google/ZtXgscrydwnF4Rir6'
