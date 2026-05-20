@@ -157,7 +157,7 @@ function staggerMotion(index: number = 0) {
           :items="page.logos.items"
           :ui="{
             title: 'font-mono uppercase text-xs tracking-[0.12em] text-dimmed',
-            logos: 'gap-0',
+            logos: 'gap-10 flex-wrap',
             logo: 'text-muted size-6'
           }"
         />
