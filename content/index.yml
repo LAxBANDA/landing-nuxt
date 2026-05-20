@@ -13,11 +13,11 @@ hero:
       size: xl
       to: "https://calendar.app.google/ZtXgscrydwnF4Rir6"
       target: "_blank"
-    - label: Casos de éxito
-      size: xl
-      color: neutral
-      variant: soft
-      to: "#"
+    # - label: Casos de éxito
+    #   size: xl
+    #   color: neutral
+    #   variant: soft
+    #   to: "#"
 terminal:
   lines:
     - segments:
@@ -162,3 +162,4 @@ cta:
     - label: Agenda aquí
       color: primary
       to: "https://calendar.app.google/ZtXgscrydwnF4Rir6"
+      target: "_blank"
