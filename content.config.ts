@@ -35,7 +35,8 @@ export const collections = {
         lines: z.array(z.object({
           segments: z.array(z.object({
             text: z.string(),
-            style: z.string()
+            style: z.string(),
+            url: z.string(),
           }))
         }))
       }),
